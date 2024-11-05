@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqaziise.github.io/Kbw/sitemap_index.txt
+Sitemap: https://oqaziise.github.io/TSH/sitemap_index.txt
+Sitemap: https://oqaziise.github.io/kMX/sitemap_index.txt
+Sitemap: https://oqaziise.github.io/yTv/sitemap_index.txt
